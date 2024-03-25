@@ -1,4 +1,5 @@
 # rutuja-demo
-This is my first Git Repository.<br>
-Author - Rutuja Jirage
+This is my first Git Repository.
+<br>
+Author - Rutuja Jirage (student)
 
